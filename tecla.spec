@@ -1,7 +1,7 @@
 %global tarball_version %%(echo %{version} | tr '~' '.')
  
 Name:           tecla
-Version:        45.0
+Version:        46.0
 Release:        1
 Summary:        Keyboard layout viewer
  
